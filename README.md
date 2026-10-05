@@ -5,8 +5,8 @@ show, standard error vs. sample size, *t*-test error rates, ANOVA + Tukey,
 fitting a line by hand, linear and logistic regression vs. sample size, and
 Bayesian updating with a beta prior.
 
-Pure client-side port of the Quarto/Shiny dashboard in `~/Repos/stats101_dash`
-(formerly <https://guilherme.shinyapps.io/stats101/>). No server: all
+Pure client-side port of the Quarto/Shiny dashboard in `~/Repos/stats101_dash`.
+No server: all
 simulation and model fitting run in the browser.
 
 Live at <https://gdgarcia.ca/stats101> (a redirect to this repo's GitHub Pages site,
